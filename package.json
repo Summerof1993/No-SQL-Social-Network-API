@@ -1,0 +1,24 @@
+{
+  "name": "no-sql-social-network-api",
+  "version": "1.0.0",
+  "description": "Social Network API with NoSQL",
+  "main": "server.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "start": "node server.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Summerof1993/No-SQL-Social-Network-API.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/Summerof1993/No-SQL-Social-Network-API/issues"
+  },
+  "homepage": "https://github.com/Summerof1993/No-SQL-Social-Network-API#readme",
+  "dependencies": {
+    "express": "^4.19.1",
+    "mongoose": "^7.0.2"
+  }
+}
